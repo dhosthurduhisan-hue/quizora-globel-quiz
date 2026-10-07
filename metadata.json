@@ -1,0 +1,7 @@
+{
+  "name": "Quizora",
+  "description": "Play. Think. Learn. Compete. The ultimate quiz and puzzle platform with daily challenges, logic puzzles, XP leveling, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
